@@ -8,6 +8,6 @@
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
-    <!-- je viens d'essayer de pucher OK KAO-->
+    <!-- je viens d'essayer de pucher OK KAO j'ajoute-->
   </welcome-file-list>
 </web-app>
